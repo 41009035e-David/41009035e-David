@@ -1,24 +1,9 @@
-## Hi there 👋
 
-<!--
-**41009035e-David/41009035e-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### 111-2臺師大教育大數據微學程
-課名：學習分析工具實務應用
-授課教師：蔡芸琤老師
-姓名：戴瑋彩
-系級：特教系大二
-課程筆記區
-作業連結區
-專題連結區
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 111-2臺師大教育大數據微學程
+### 課名：學習分析工具實務應用
+### 授課教師：蔡芸琤老師
+### 姓名：戴瑋彩
+### 系級：特教系大二
+### 課程筆記區
+### 作業連結區
+### 專題連結區
