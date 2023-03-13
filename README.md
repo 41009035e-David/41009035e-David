@@ -6,4 +6,6 @@
 ##### 系級：特教系大二
 #### 課程筆記區
 #### 作業連結區
+* [WEEK1](https://github.com/41009035e-David/LAT/blob/main/week1/week1_0301.ipynb) 
+* [WEEK2](https://github.com/41009035e-David/LAT/blob/main/week1/week1_0301.ipynb)
 #### 專題連結區
