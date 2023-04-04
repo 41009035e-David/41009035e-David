@@ -13,5 +13,6 @@
 * [WEEK2](https://github.com/41009035e-David/LAT/blob/main/week1/week1_0301.ipynb) 
 * [WEEK3](https://github.com/41009035e-David/LAT/blob/main/week2/week2_0308.ipynb)
 * [WEEK5](https://github.com/41009035e-David/LAT/blob/main/week2/week5.ipynb)
+* [WEEK6](https://github.com/41009035e-David/LAT/blob/main/week6/0329.ipynb)
 
 #### 專題連結區
