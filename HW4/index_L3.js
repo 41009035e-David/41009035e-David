@@ -42,7 +42,6 @@ async function MS_TextSentimentAnalysis(thisEvent){
     const confidenceScores = results[0].confidenceScores;
     const comment = thisEvent.message.text.toLowerCase();
     const keywords = await extractKeywords(comment);
-    //const mainSubject = keywords[0]; //取得主詞
     
     let improvementText = "";
     if (sentiment ==='negative') {
