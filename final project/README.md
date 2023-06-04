@@ -3,6 +3,16 @@
 #### 1.構思一個電腦視覺應用在學習上的功能，並且嘗試測試它。
 
 ### 成品呈現：
+#### 介面顯示：
+![介面顯示](https://github.com/41009035e-David/LAT/blob/main/final%20project/images/10.%E4%BB%8B%E9%9D%A2%E9%A1%AF%E7%A4%BA.png "介面顯示")
+#### 步驟1：於搜尋欄中輸入地點。
+![搜尋畫面](https://github.com/41009035e-David/LAT/blob/main/final%20project/images/11.%E6%90%9C%E5%B0%8B%E7%95%AB%E9%9D%A2.png "搜尋畫面")
+#### 步驟2：點選搜尋結果。
+![點選](https://github.com/41009035e-David/LAT/blob/main/final%20project/images/12.%E9%BB%9E%E9%81%B8%E6%90%9C%E5%B0%8B%E7%B5%90%E6%9E%9C.png "點選")
+#### 步驟3：地點點選。
+![點選2](https://github.com/41009035e-David/LAT/blob/main/final%20project/images/13.%E9%BB%9E%E9%81%B8%E5%9C%96%E7%A4%BA.png "點選2")
+#### 步驟4：調整半徑，了解與學校之距離。
+![調整半徑顯示資訊](https://github.com/41009035e-David/LAT/blob/main/final%20project/images/14.%E8%AA%BF%E6%95%B4%E5%8D%8A%E5%BE%91%E9%A1%AF%E7%A4%BA%E8%B3%87%E8%A8%8A.png "調整半徑顯示資訊")
 
 ### 專題程式碼：
  * [專題-GetMap.js](https://github.com/41009035e-David/LAT/blob/main/final%20project/GetMap.js)
