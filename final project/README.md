@@ -11,7 +11,9 @@
 ![點選](https://github.com/41009035e-David/LAT/blob/main/final%20project/images/12.%E9%BB%9E%E9%81%B8%E6%90%9C%E5%B0%8B%E7%B5%90%E6%9E%9C.png "點選")
 #### 步驟3：地點點選。
 ![點選2](https://github.com/41009035e-David/LAT/blob/main/final%20project/images/13.%E9%BB%9E%E9%81%B8%E5%9C%96%E7%A4%BA.png "點選2")
-#### 步驟4：調整半徑，了解與學校之距離。
+#### 步驟4：點選特殊學校按鈕，顯示特定標記點之位置。
+![特殊學校](https://github.com/41009035e-David/LAT/blob/main/final%20project/images/15%E9%BB%9E%E7%89%B9%E6%AE%8A%E5%AD%B8%E6%A0%A1%E4%B9%8B%E6%8C%89%E9%88%95.png "特殊學校")
+#### 步驟5：調整半徑，了解與學校之距離。
 ![調整半徑顯示資訊](https://github.com/41009035e-David/LAT/blob/main/final%20project/images/14.%E8%AA%BF%E6%95%B4%E5%8D%8A%E5%BE%91%E9%A1%AF%E7%A4%BA%E8%B3%87%E8%A8%8A.png "調整半徑顯示資訊")
 
 ### 專題程式碼：
