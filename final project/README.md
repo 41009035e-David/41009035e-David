@@ -3,6 +3,7 @@
 ### 指導老師：Pecu老師 Ryan老師
 
 #### 簡報
+ * [簡報](https://www.canva.com/design/DAFkde57yRs/NDiZXdf-7rYRggre65P_aw/view?utm_content=DAFkde57yRs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 ### 成品呈現：
 #### 介面顯示：
 ![介面顯示](https://github.com/41009035e-David/LAT/blob/main/final%20project/images/10.%E4%BB%8B%E9%9D%A2%E9%A1%AF%E7%A4%BA.png "介面顯示")
